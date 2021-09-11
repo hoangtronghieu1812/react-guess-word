@@ -1,0 +1,9 @@
+.AttemptsLeft {
+  font-style: italic;
+  font-size: 0.9em;
+  margin: 11px 9px 30px 0px;
+}
+
+.AttemptsLeft-Number {
+  color: #ff6600;
+}
